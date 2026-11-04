@@ -16,4 +16,4 @@ To me, something is impossible only if it hasn't crossed my mind. Once an idea c
 
 On this site, I write about topics that are **rarely discussed elsewhere**, and I also publish my **own research**. Beyond technical subjects, I cover **non-technical topics** that I believe are valuable for a security researcher to know — and I share **book summaries** as well.
 
-I will also teach you how to **work on yourself**, understand your own **internals**, and fix the **flaws within yourself** — so that you can prevent **time-consuming problems** before they arise in the future.
+I will also teach you how to **work on yourself**, **understand yourself**, and **fix the vulnerabilities within yourself** — so that you can prevent **time-consuming problems** before they arise in the future.
